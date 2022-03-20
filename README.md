@@ -8,6 +8,10 @@ The objective of this task is to write your **own** HTML/(S)CSS to replicate the
 
 <img width="440" alt="Howdy" src="https://user-images.githubusercontent.com/5774906/158838979-3569e206-2592-43be-8adb-f3955f93700b.png">
 
+Color Palette:
+Cyan: #0ef7fb
+Purple: #7f0381
+
 To submit your code you can create a pen on https://codepen.io/ and share the link.. ***( Please make sure it's public)***
 
 
